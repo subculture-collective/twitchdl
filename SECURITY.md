@@ -17,7 +17,7 @@ finalization must retain the raw recording instead of deleting recoverable data.
 
 Do not publish sensitive vulnerabilities in public issues.
 
-Report privately to the repository owner or organization maintainer through the preferred private channel for the project. If no project-specific channel exists, contact the maintainer account for the Gitea organization.
+Report privately through GitHub: open the repository's [Security tab](https://github.com/subculture-collective/twitchdl/security/advisories/new) and choose "Report a vulnerability".
 
 Include:
 

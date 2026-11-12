@@ -16,5 +16,3 @@ Use this section for durable technical references:
 - Data models
 - CLI commands
 - Integration notes
-
-Keep exploratory notes in `docs/research/` until they become stable references.
