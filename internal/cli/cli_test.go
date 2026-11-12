@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"git.subcult.tv/subculture-collective/twitchdl/internal/domain"
+	"github.com/subculture-collective/twitchdl/internal/domain"
 )
 
 func TestRootCommandOfflineBehavior(t *testing.T) {

@@ -6,7 +6,7 @@ import (
 	"io"
 	"time"
 
-	processpkg "git.subcult.tv/subculture-collective/twitchdl/internal/process"
+	processpkg "github.com/subculture-collective/twitchdl/internal/process"
 )
 
 // Streamlink resolves and records Twitch live streams.

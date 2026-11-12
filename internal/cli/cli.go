@@ -11,11 +11,11 @@ import (
 
 	"github.com/spf13/cobra"
 
-	"git.subcult.tv/subculture-collective/twitchdl/internal/app"
-	"git.subcult.tv/subculture-collective/twitchdl/internal/backend"
-	"git.subcult.tv/subculture-collective/twitchdl/internal/domain"
-	"git.subcult.tv/subculture-collective/twitchdl/internal/media"
-	processpkg "git.subcult.tv/subculture-collective/twitchdl/internal/process"
+	"github.com/subculture-collective/twitchdl/internal/app"
+	"github.com/subculture-collective/twitchdl/internal/backend"
+	"github.com/subculture-collective/twitchdl/internal/domain"
+	"github.com/subculture-collective/twitchdl/internal/media"
+	processpkg "github.com/subculture-collective/twitchdl/internal/process"
 )
 
 // Version is overridden at build time for releases.

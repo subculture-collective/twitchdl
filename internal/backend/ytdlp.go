@@ -6,9 +6,9 @@ import (
 	"fmt"
 	"io"
 
-	"git.subcult.tv/subculture-collective/twitchdl/internal/domain"
-	"git.subcult.tv/subculture-collective/twitchdl/internal/media"
-	processpkg "git.subcult.tv/subculture-collective/twitchdl/internal/process"
+	"github.com/subculture-collective/twitchdl/internal/domain"
+	"github.com/subculture-collective/twitchdl/internal/media"
+	processpkg "github.com/subculture-collective/twitchdl/internal/process"
 )
 
 // YTDLP downloads Twitch clips and VODs.

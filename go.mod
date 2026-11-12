@@ -1,4 +1,4 @@
-module git.subcult.tv/subculture-collective/twitchdl
+module github.com/subculture-collective/twitchdl
 
 go 1.26
 

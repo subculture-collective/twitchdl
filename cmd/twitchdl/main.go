@@ -7,7 +7,7 @@ import (
 	"os/signal"
 	"syscall"
 
-	"git.subcult.tv/subculture-collective/twitchdl/internal/cli"
+	"github.com/subculture-collective/twitchdl/internal/cli"
 )
 
 func main() {

@@ -6,7 +6,7 @@ import (
 	"io"
 	"os"
 
-	processpkg "git.subcult.tv/subculture-collective/twitchdl/internal/process"
+	processpkg "github.com/subculture-collective/twitchdl/internal/process"
 )
 
 // Finalizer remuxes and validates raw recordings.

@@ -8,8 +8,8 @@ import (
 	"os"
 	"time"
 
-	"git.subcult.tv/subculture-collective/twitchdl/internal/domain"
-	"git.subcult.tv/subculture-collective/twitchdl/internal/media"
+	"github.com/subculture-collective/twitchdl/internal/domain"
+	"github.com/subculture-collective/twitchdl/internal/media"
 )
 
 // Downloader downloads clips and VODs.

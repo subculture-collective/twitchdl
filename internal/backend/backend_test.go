@@ -10,8 +10,8 @@ import (
 	"testing"
 	"time"
 
-	"git.subcult.tv/subculture-collective/twitchdl/internal/domain"
-	processpkg "git.subcult.tv/subculture-collective/twitchdl/internal/process"
+	"github.com/subculture-collective/twitchdl/internal/domain"
+	processpkg "github.com/subculture-collective/twitchdl/internal/process"
 )
 
 type recordingRunner struct {
